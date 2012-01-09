@@ -29,7 +29,7 @@ open import Lib
 %include agda.fmt
 
 %format λ = "\lambda"
-%format : = \in
+%format : = "\in"
 %format α = "\alpha"
 
 %format Σ* = "(\!"
